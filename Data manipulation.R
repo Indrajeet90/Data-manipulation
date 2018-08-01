@@ -3,10 +3,6 @@ library(swirl)
 ls()
 rm(list = ls())
 
-swirl()
-indra
-install_from_swirl("Getting and Cleaning Data")
-
 # Data manipulation using Dplyr
 swirl()
 install_from_swirl("Getting and Cleaning Data")
